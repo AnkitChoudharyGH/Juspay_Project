@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Scratch_App/static/css/main.d8f25a46.css",
+    "main.js": "/Scratch_App/static/js/main.858859f6.js",
+    "static/media/jerry1.png": "/Scratch_App/static/media/jerry1.1fd6fdc9bb4bdafebd30.png",
+    "static/media/Logo.png": "/Scratch_App/static/media/Logo.fc9df177b8e7e782cd85.png",
+    "static/media/cat.png": "/Scratch_App/static/media/cat.7b77c0365ff7e73fdfca.png",
+    "static/media/ball.png": "/Scratch_App/static/media/ball.a6632a7ef23c25a0d61e.png",
+    "static/media/Mickey_Mouse.png": "/Scratch_App/static/media/Mickey_Mouse.80b0e3e41e52d0bae0e6.png",
+    "index.html": "/Scratch_App/index.html",
+    "main.d8f25a46.css.map": "/Scratch_App/static/css/main.d8f25a46.css.map",
+    "main.858859f6.js.map": "/Scratch_App/static/js/main.858859f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8f25a46.css",
+    "static/js/main.858859f6.js"
+  ]
+}
