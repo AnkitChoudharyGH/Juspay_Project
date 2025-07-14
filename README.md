@@ -18,7 +18,7 @@ Scale and rotate
 ->Tailwind CSS & MUI (for styling and icons)
 ->react-beautiful-dnd (for drag and drop)
 
-<b>Description and status of the Tasks:</b>
+<b>Description and status of the Tasks:</b><br>
 Scratch Website Clone:
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7154b7a8-23ff-48a2-a924-f42e711a1f78" />
 Task1: Move along -X, -Y, X, Y
@@ -33,7 +33,7 @@ Before:
 After: After Collision they swap their moves
 <img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/4b69a6a2-d21b-429a-8645-bb458e0bd6ad" />
 
-<b>Extra Features:</b>
+<b>Extra Features:</b><br>
 Wallpaper Button Added:
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/94615b23-bf47-4e2c-b2e1-5524fef12fa4" />
 Go to Specific Coordinate feature:
