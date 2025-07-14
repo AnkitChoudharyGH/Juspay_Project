@@ -17,3 +17,6 @@ Scale and rotate
 ->Redux (for sprite state)
 ->Tailwind CSS & MUI (for styling and icons)
 ->react-beautiful-dnd (for drag and drop)
+
+Scratch Website Clone:
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7154b7a8-23ff-48a2-a924-f42e711a1f78" />
