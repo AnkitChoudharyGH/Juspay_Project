@@ -18,5 +18,18 @@ Scale and rotate
 ->Tailwind CSS & MUI (for styling and icons)
 ->react-beautiful-dnd (for drag and drop)
 
+Description and status of the Tasks:
 Scratch Website Clone:
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7154b7a8-23ff-48a2-a924-f42e711a1f78" />
+Task1: Move along -X, -Y, X, Y
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7c7cd5b9-2eb0-41b7-8da5-7bf02c0495dd" />
+Task2: Hello feature also added
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/14503dc7-7b29-4d22-84d3-ada5100ce6bd" />
+Task3: Created multple sprites
+<img width="1919" height="1058" alt="image" src="https://github.com/user-attachments/assets/b43c0bb7-1030-4b2e-9186-595122c0bb32" />
+Task4: Hero Feature
+Before:
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/50d0d698-19f7-4e9f-9117-f562471f66d0" />
+After: After Collision they swap their moves
+<img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/4b69a6a2-d21b-429a-8645-bb458e0bd6ad" />
+
