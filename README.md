@@ -4,30 +4,40 @@ This is a ReactJS-based visual programming environment inspired by MIT Scratch. 
 🚀 Key Features:
 
 ->Drag & Drop Blocks: Users can drag motion and looks blocks to build logic.
-
+<br>
 ->Sprite Animations:
 Move, turn, and go to (x, y)
 Say and think messages
 Scale and rotate
+<br>
 
 ->Multiple Sprites: Add two sprites; they can collide and swap actions.
+<br>
 
 ->Collision Detection: Sprites detect collision and exchange actions dynamically. (Hero Feature)
+<br>
 
 ->Custom UI: Built with ReactJS, Tailwind CSS, MUI icons, and react-beautiful-dnd.
+<br>
 
 ->Theme Toggle & Background: Switch between themes with background image support.
+<br>
 
-🔧 Technologies Used:
+<b>🔧 Technologies Used:</b>
+<br>
 
 ->ReactJS
+<br>
 
 ->Redux (for sprite state)
+<br>
 
 ->Tailwind CSS & MUI (for styling and icons)
+<br>
 
 ->react-beautiful-dnd (for drag and drop)
 
+<br>
 
 <b>Description and status of the Tasks:</b><br>
 Scratch Website Clone:
