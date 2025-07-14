@@ -10,33 +10,24 @@ Move, turn, and go to (x, y)
 Say and think messages
 Scale and rotate
 <br>
-
 ->Multiple Sprites: Add two sprites; they can collide and swap actions.
 <br>
-
 ->Collision Detection: Sprites detect collision and exchange actions dynamically. (Hero Feature)
 <br>
-
 ->Custom UI: Built with ReactJS, Tailwind CSS, MUI icons, and react-beautiful-dnd.
 <br>
-
 ->Theme Toggle & Background: Switch between themes with background image support.
 <br>
 
 <b>🔧 Technologies Used:</b>
 <br>
-
 ->ReactJS
 <br>
-
 ->Redux (for sprite state)
 <br>
-
 ->Tailwind CSS & MUI (for styling and icons)
 <br>
-
 ->react-beautiful-dnd (for drag and drop)
-
 <br>
 
 <b>Description and status of the Tasks:</b><br>
